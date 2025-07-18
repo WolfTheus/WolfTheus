@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Sobre mim
 
-<!--
-**WolfTheus/WolfTheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é **Matheus Henrique Cemino de Jesus** — sou um desenvolvedor Back-End apaixonado por tecnologia, automações e soluções criativas.
 
-Here are some ideas to get you started:
+🎯 Estou em busca de oportunidades como **Programador Python Júnior**, **Técnico de Suporte** ou **Assistente de TI**, e utilizo este GitHub para compartilhar meus projetos, estudos e evoluções na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e Habilidades:
+- **Back-End**: Python (em constante evolução)
+- **Front-End**: HTML e CSS
+- **Suporte Técnico**: N1 híbrido (remoto e presencial)
+- **Automação de rotinas administrativas**
+- **Controle de estoque, emissão de NF-e e relatórios**
+- **Criação de checklists e organização de dados**
+
+### 📚 Formação
+- Técnico em Informática para Internet — *Fundação Instituto Tecnológico de Osasco* (2022 - 2024)
+
+### 🧠 Cursos em destaque
+- Lógica com JavaScript e HTML — Alura  
+- Unity: Jogo de sobrevivência a zumbis — Alura  
+- JavaScript: tipos, variáveis e funções — Alura
+
+### 🌐 Onde me encontrar
+- 📧 E-mail: [matheus.cemino2013@gmail.com](mailto:matheus.cemino2013@gmail.com)
+- 📱 WhatsApp: (11) 98789-1091
+- 💼 LinkedIn: *(adicione seu link aqui se tiver)*
+
+---
+
+🔎 Explore meus repositórios para ver projetos com foco em automações, sites e ferramentas úteis para o dia a dia. Estou sempre aprendendo algo novo e buscando maneiras de aplicar meus conhecimentos em soluções práticas.
+
