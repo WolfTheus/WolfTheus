@@ -55,3 +55,5 @@ _Fundação Instituto Tecnológico de Osasco (2022 - 2024)_
 
 🚀 Explore meus repositórios e projetos aqui no GitHub — muitos deles voltados a automações, sites e ferramentas úteis que desenvolvi ou colaborei.  
 Estou sempre disponível para aprender, colaborar e crescer profissionalmente.
+
+![Pac-Man devour contributions](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
