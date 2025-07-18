@@ -1,31 +1,57 @@
-## 👋 Sobre mim
+# 👋 Olá, eu sou o Matheus Henrique!
 
-Olá! Meu nome é **Matheus Henrique Cemino de Jesus** — sou um desenvolvedor Back-End apaixonado por tecnologia, automações e soluções criativas.
+🎯 **Programador Full Stack** com foco em desenvolvimento **Back-End em Python**. Tenho experiência prática com suporte técnico, criação de sites, rotinas administrativas e automações úteis para o dia a dia.
 
-🎯 Estou em busca de oportunidades como **Programador Python Júnior**, **Técnico de Suporte** ou **Assistente de TI**, e utilizo este GitHub para compartilhar meus projetos, estudos e evoluções na área.
-
-### 💻 Tecnologias e Habilidades:
-- **Back-End**: Python (em constante evolução)
-- **Front-End**: HTML e CSS
-- **Suporte Técnico**: N1 híbrido (remoto e presencial)
-- **Automação de rotinas administrativas**
-- **Controle de estoque, emissão de NF-e e relatórios**
-- **Criação de checklists e organização de dados**
-
-### 📚 Formação
-- Técnico em Informática para Internet — *Fundação Instituto Tecnológico de Osasco* (2022 - 2024)
-
-### 🧠 Cursos em destaque
-- Lógica com JavaScript e HTML — Alura  
-- Unity: Jogo de sobrevivência a zumbis — Alura  
-- JavaScript: tipos, variáveis e funções — Alura
-
-### 🌐 Onde me encontrar
-- 📧 E-mail: [matheus.cemino2013@gmail.com](mailto:matheus.cemino2013@gmail.com)
-- 📱 WhatsApp: (11) 98789-1091
-- 💼 LinkedIn: *(adicione seu link aqui se tiver)*
+Atualmente atuo como **Assistente Administrativo na Castillero Diversões**, onde aplico tecnologia para otimizar tarefas como controle de estoque, emissão de NF-e e criação de checklists inteligentes.
 
 ---
 
-🔎 Explore meus repositórios para ver projetos com foco em automações, sites e ferramentas úteis para o dia a dia. Estou sempre aprendendo algo novo e buscando maneiras de aplicar meus conhecimentos em soluções práticas.
+## 💡 Sobre mim
 
+- 💻 Apaixonado por resolver problemas com código
+- 📚 Sempre aprendendo algo novo e aplicando em projetos reais
+- 🔧 Experiência com HTML, CSS, Python, automações administrativas e suporte N1
+- 🧰 Familiaridade com Office, planilhas, relatórios, estoque e muito mais
+- 🌍 Baseado em Osasco/SP
+
+---
+
+## 🎓 Formação
+**Técnico em Informática para Internet**  
+_Fundação Instituto Tecnológico de Osasco (2022 - 2024)_
+
+---
+
+## 🔧 Tecnologias e Ferramentas
+- Python (Back-End)
+- HTML & CSS (Front-End)
+- Git & GitHub
+- Pacote Office (Word, Excel, PowerPoint)
+- Manutenção e montagem de computadores
+- Emissão de NF-e e relatórios administrativos
+
+---
+
+## 📚 Cursos em destaque
+- [Alura] JavaScript e HTML: lógica com desenhos, animações e jogo (2022)  
+- [Alura] Unity: criação de jogo de zumbis para Web (2022)  
+- [Alura] JavaScript: tipos, variáveis e funções (2022)  
+
+---
+
+## 🧠 Experiências recentes
+- 💼 **Castillero Diversões** – Assistente Administrativo  
+- 🧑‍💻 **Mike School** – Estagiário de TI e Freelancer (criação de conteúdos, suporte técnico, site)  
+- 🏢 **Transppass** – Jovem Aprendiz (suporte e segurança do trabalho)
+
+---
+
+## 📫 Como me encontrar
+- Email: [matheus.cemino2013@gmail.com](mailto:matheus.cemino2013@gmail.com)  
+- WhatsApp: (11) 98789-1091  
+- Localização: Osasco/SP
+
+---
+
+🚀 Explore meus repositórios e projetos aqui no GitHub — muitos deles voltados a automações, sites e ferramentas úteis que desenvolvi ou colaborei.  
+Estou sempre disponível para aprender, colaborar e crescer profissionalmente.
